@@ -1,4 +1,4 @@
-# Pandas
+# DATA
 pandas prac and intro
 Working with pandas
 General commands
